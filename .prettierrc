@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+  "plugins": ["prettier", "prettier-plugin-tailwindcss"],
+  "rules": {
+    "prettier/prettier": "warn"
+  }
+}
