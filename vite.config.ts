@@ -18,9 +18,6 @@ export default defineConfig({
       fileName: (format) => `index.${format}.js`,
     },
     rollupOptions: {
-      input: {
-        index: resolve(__dirname, "lib/index.ts"),
-      },
       external: ["react", "react-dom", "tailwindcss"],
       output: {
         globals: {
@@ -30,7 +27,7 @@ export default defineConfig({
         },
       },
     },
-    sourcemap: false,
+    sourcemap: true,
     emptyOutDir: true,
   },
 });

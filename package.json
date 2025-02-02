@@ -1,12 +1,14 @@
 {
   "name": "react-wheel-picker",
-  "private": false,
-  "version": "1.0.0",
   "description": "A simple picker component for React",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Mevlüt Can Tuna",
+  "license": "MIT",
   "type": "module",
-  "main": "./dist/index.umd.js",
-  "module": "./dist/index.esm.js",
-  "types": "./dist/index.d.ts",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -31,12 +33,12 @@
     "lib/**/*.{tsx,js,jsx,json,css,md,ts}": "prettier --write"
   },
   "peerDependencies": {
-    "@tailwindcss/vite": "^4.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
+    "@tailwindcss/vite": "^4.0.3",
     "@types/node": "^22.13.0",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
