@@ -2,7 +2,6 @@
   "name": "react-wheel-picker",
   "description": "A highly customizable and user-friendly wheel picker component for React applications.",
   "version": "1.0.0",
-  "private": false,
   "author": "Mevlüt Can Tuna",
   "license": "MIT",
   "type": "module",
