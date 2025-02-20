@@ -1,5 +1,7 @@
 # React Beautiful Wheel Picker
 
+[![npm version](https://img.shields.io/npm/v/react-beautiful-wheel-picker.svg)](https://www.npmjs.com/package/react-beautiful-wheel-picker)
+
 A highly customizable and user-friendly wheel picker component for React applications.
 
 ![React Beautiful Wheel Picker Demo](https://github.com/mevlutcantuna/react-beautiful-wheel-picker/blob/main/screenshots/demo-1.gif)
