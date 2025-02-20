@@ -2,7 +2,7 @@
 
 A highly customizable and user-friendly wheel picker component for React applications.
 
-![React Wheel Picker Demo](./screenshots/demo.gif)
+![React Wheel Picker Demo](https://github.com/mevlutcantuna/react-beautiful-wheel-picker/blob/main/screenshots/demo.gif)
 
 ## Installation
 
