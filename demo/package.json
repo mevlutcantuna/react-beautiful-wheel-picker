@@ -14,7 +14,7 @@
     "date-fns": "^4.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-beautiful-wheel-picker": "file:..",
+    "react-beautiful-wheel-picker": "1.0.5",
     "tailwind-merge": "^3.0.1"
   },
   "devDependencies": {
