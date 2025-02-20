@@ -1,7 +1,8 @@
-import Picker from "./components/picker";
-import PickerItem from "./components/picker-item";
+import "./styles/index.css";
+import { PickerItemProps } from "./components/picker-item";
+import { PickerItem } from "./components/picker-item";
+import { PickerProps } from "./components/picker";
 
-console.log("Picker");
-console.log("PickerItem");
+export { default as Picker } from "./components/picker";
 
-export { Picker, PickerItem };
+export type { PickerProps, PickerItemProps, PickerItem };

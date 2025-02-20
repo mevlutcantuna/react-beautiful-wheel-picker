@@ -1,11 +1,19 @@
-import { Picker, PickerItem } from "react-wheel-picker";
+import CalendarPicker from "./components/calendar-picker";
+import SimplePicker from "./components/simple-picker";
 
 function App() {
   return (
-    <div>
-      <Picker>
-        <PickerItem>Hello</PickerItem>
-      </Picker>
+    <div
+      style={{
+        padding: "2rem",
+        display: "flex",
+        justifyContent: "space-between",
+        gap: "15rem",
+        width: "100%",
+      }}
+    >
+      <SimplePicker />
+      <CalendarPicker />
     </div>
   );
 }
