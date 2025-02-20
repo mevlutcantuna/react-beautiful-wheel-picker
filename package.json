@@ -22,7 +22,7 @@
     }
   },
   "scripts": {
-    "build": "rm -rf ./dist && tsc -b && vite build",
+    "build": "rm -rf ./dist && tsc && vite build",
     "build:watch": "rm -rf ./dist && tsc && vite build --watch",
     "lint": "eslint --fix './lib/**/*.{ts,tsx,js,jsx}' && prettier . --write './lib/**/*.{ts,tsx,js,jsx,css}'",
     "prepare": "husky"
