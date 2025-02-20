@@ -1,4 +1,4 @@
-# React Wheel Picker
+# React Beautiful Wheel Picker
 
 A highly customizable and user-friendly wheel picker component for React applications.
 
@@ -6,7 +6,7 @@ A highly customizable and user-friendly wheel picker component for React applica
 
 ## Installation
 
-To install the React Wheel Picker, run the following command:
+To install the React Beautiful Wheel Picker, run the following command:
 
 ```bash
 npm install react-beautiful-wheel-picker
