@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Picker } from "react-wheel-picker";
+import { Picker } from "react-beautiful-wheel-picker";
 
 const SimplePicker = () => {
   const [count, setCount] = useState<number>(25);

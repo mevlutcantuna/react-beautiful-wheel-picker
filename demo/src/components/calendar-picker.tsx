@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { format, isToday } from "date-fns";
 import { getDatesInRange } from "../utils";
-import { Picker } from "react-wheel-picker";
+import { Picker } from "react-beautiful-wheel-picker";
 
 const ScrollableCalendar = () => {
   const [date, setDate] = useState<Date>(new Date());

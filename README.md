@@ -9,13 +9,13 @@ A highly customizable and user-friendly wheel picker component for React applica
 To install the React Wheel Picker, run the following command:
 
 ```bash
-npm install react-wheel-picker
+npm install react-beautiful-wheel-picker
 ```
 
 ## Usage
 
 ```tsx
-import { Picker } from "react-wheel-picker";
+import { Picker } from "react-beautiful-wheel-picker";
 
 <Picker>
   <Picker.Item values={[]} />

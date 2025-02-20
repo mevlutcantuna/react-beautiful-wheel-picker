@@ -15,7 +15,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "lib/index.ts"),
-      name: "react-wheel-picker",
+      name: "react-beautiful-wheel-picker",
       fileName: (format) => `index.${format}.js`,
     },
     rollupOptions: {
