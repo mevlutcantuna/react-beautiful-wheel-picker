@@ -28,7 +28,7 @@ export default defineConfig({
         },
       },
     },
-    sourcemap: true,
-    emptyOutDir: true,
+    sourcemap: false,
+    emptyOutDir: false,
   },
 });
