@@ -1,7 +1,7 @@
 {
   "name": "react-beautiful-wheel-picker",
   "description": "A highly customizable and user-friendly wheel picker component for React applications.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Mevlüt Can Tuna",
   "license": "MIT",
   "keywords": [
